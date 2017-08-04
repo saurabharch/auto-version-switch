@@ -1,6 +1,6 @@
 var child_process = require('child_process');
 var fetch = require('node-fetch');
-var Promise = require('Bluebird');
+var Promise = require('bluebird');
 var fs = require('fs');
 var os = require('os');
 var crypto = require('crypto');
